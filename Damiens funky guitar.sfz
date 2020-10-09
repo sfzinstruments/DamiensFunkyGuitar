@@ -1,0 +1,78 @@
+// Damien's funky guitar
+//
+// Converted from the original GigaSampler version by S. Christian Collins
+// www.schristiancollins.com
+
+<control>
+default_path=samples/
+
+<global>
+ampeg_release=0.3
+
+<group> lovel=1  hivel=95
+<region> sample=E2p.wav   key=40  lokey=36
+<region> sample=F2p.wav   key=41
+<region> sample=F#2p.wav  key=42
+<region> sample=G2p.wav   key=43
+<region> sample=G#2p.wav  key=44
+<region> sample=A2p.wav   key=45
+<region> sample=A#2p.wav  key=46
+<region> sample=B2p.wav   key=47
+<region> sample=C3p.wav   key=48
+<region> sample=C#3p.wav  key=49
+<region> sample=D3p.wav   key=50
+<region> sample=D#3p.wav  key=51
+<region> sample=E3p.wav   key=52
+<region> sample=E3p.wav   key=53  pitch_keycenter=52
+<region> sample=F#3p.wav  key=54
+<region> sample=G3p.wav   key=55
+<region> sample=G#3p.wav  key=56
+<region> sample=A3p.wav   key=57
+<region> sample=A#3p.wav  key=58
+<region> sample=B3p.wav   key=59
+<region> sample=C4p.wav   key=60
+<region> sample=C#4p.wav  key=61
+<region> sample=D4p.wav   key=62
+<region> sample=D#4p.wav  key=63
+<region> sample=E4p.wav   key=64
+<region> sample=F4p.wav   key=65
+<region> sample=F#4p.wav  key=66
+<region> sample=F#4p.wav  key=67  pitch_keycenter=66
+<region> sample=G#4p.wav  key=68
+<region> sample=A4p.wav   key=69
+<region> sample=A#4p.wav  key=70
+<region> sample=B4p.wav   key=71  hikey=76
+
+<group> lovel=96  hivel=127
+<region> sample=E2f.wav   key=40  lokey=36
+<region> sample=F2f.wav   key=41
+<region> sample=F#2f.wav  key=42
+<region> sample=G2f.wav   key=43
+<region> sample=G#2f.wav  key=44
+<region> sample=A2f.wav   key=45
+<region> sample=A#2f.wav  key=46
+<region> sample=B2f.wav   key=47
+<region> sample=C3f.wav   key=48
+<region> sample=C#3f.wav  key=49
+<region> sample=D3f.wav   key=50
+<region> sample=D#3f.wav  key=51
+<region> sample=E3f.wav   key=52
+<region> sample=F3f.wav   key=53
+<region> sample=F#3f.wav  key=54
+<region> sample=G3f.wav   key=55
+<region> sample=G#3f.wav  key=56
+<region> sample=A3f.wav   key=57
+<region> sample=A#3f.wav  key=58
+<region> sample=B3f.wav   key=59
+<region> sample=C4f.wav   key=60
+<region> sample=C#4f.wav  key=61
+<region> sample=D4f.wav   key=62
+<region> sample=D#4f.wav  key=63
+<region> sample=E4f.wav   key=64
+<region> sample=F4f.wav   key=65
+<region> sample=F#4f.wav  key=66
+<region> sample=G4f.wav   key=67
+<region> sample=G#4f.wav  key=68
+<region> sample=A4f.wav   key=69
+<region> sample=A#4f.wav  key=70
+<region> sample=B4f.wav   key=71  hikey=76
